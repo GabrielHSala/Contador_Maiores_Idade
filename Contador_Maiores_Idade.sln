@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador_Maiores_Idade", "Contador_Maiores_Idade.csproj", "{0AA0586D-0F67-4C58-B7AF-37336EA1A710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA0586D-0F67-4C58-B7AF-37336EA1A710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA0586D-0F67-4C58-B7AF-37336EA1A710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA0586D-0F67-4C58-B7AF-37336EA1A710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA0586D-0F67-4C58-B7AF-37336EA1A710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01006BFA-33B5-4D5A-BE92-218BC43C222F}
+	EndGlobalSection
+EndGlobal
